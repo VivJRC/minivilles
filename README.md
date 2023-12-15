@@ -25,4 +25,5 @@ RÈGLES COMPLÈTES MINIVILLES :
 [règles complètes de Minivilles](https://ludos.brussels/ludo-luAPE/opac_css/doc_num.php?explnum_id=683)
 
 Lien du diaporama de la présentation du projet en cours : [diapo](https://docs.google.com/presentation/d/14t7l1gLnE0PL8krx0XHX--8oXTpyjf78/edit?usp=sharing&ouid=106685801114621859254&rtpof=true&sd=true)
+
 Lien de l'UML : [uml](https://drive.google.com/file/d/1BltO8hHLpQ2WuDQbTiZaxkYKTfrOdWrE/view?usp=sharing)
